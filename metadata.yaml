@@ -1,0 +1,28 @@
+_repo: Cadet-Life-at-West-Point_64925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reed, Hugh T.
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '53097'
+    url: http://www.gutenberg.org/2009/agents/53097
+description: ''
+gutenberg_issued: '2021-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64925'
+  lccn: '11011195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States Military Academy'
+- !lcc 'U'
+- GITenberg
+tableOfContents: The appointment -- The preparation -- The candidate -- The plebe
+  in camp -- The plebe in barracks -- The yearling -- The furloughman -- The graduate
+  -- The United States Military Academy -- The appendix.
+title: Cadet Life at West Point
+url: http://www.gutenberg.org/ebooks/64925
